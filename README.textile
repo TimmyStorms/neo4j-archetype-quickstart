@@ -1,3 +1,7 @@
 h1. Neo4j maven quickstart archetype
 
-Use it like e.g. @mvn archetype:generate -DarchetypeGroupId=com.github.timmystorms -DarchetypeArtifactId=neo4j-archetype-quickstart -DarchetypeVersion=0.1-SNAPSHOT@.
+Use it like e.g. 
+@mvn archetype:generate@
+@-DarchetypeGroupId=com.github.timmystorms@
+@-DarchetypeArtifactId=neo4j-archetype-quickstart@
+@-DarchetypeVersion=0.1-SNAPSHOT@.
