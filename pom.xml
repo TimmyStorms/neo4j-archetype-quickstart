@@ -3,6 +3,6 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.timmystorms</groupId>
 	<artifactId>neo4j-archetype-quickstart</artifactId>
-	<version>0.1-SNAPSHOT</version>
+	<version>0.1</version>
 	<name>neo4j-archetype-quickstart</name>
 </project>
