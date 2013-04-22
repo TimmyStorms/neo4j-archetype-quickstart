@@ -1,7 +1,11 @@
 h1. Neo4j maven quickstart archetype
 
+Generate your Java Neo4j project with this maven archetype. It contains the most used dependencies and some basic unit testing setup.
+
 Use it like e.g. 
 @mvn archetype:generate@
 @-DarchetypeGroupId=com.github.timmystorms@
 @-DarchetypeArtifactId=neo4j-archetype-quickstart@
 @-DarchetypeVersion=0.2 (or 0.3-SNAPSHOT)@.
+
+Please make sure to add neo4j-archetype-quickstart to your local or company maven repository.
