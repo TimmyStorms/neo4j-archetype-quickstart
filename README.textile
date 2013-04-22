@@ -4,4 +4,4 @@ Use it like e.g.
 @mvn archetype:generate@
 @-DarchetypeGroupId=com.github.timmystorms@
 @-DarchetypeArtifactId=neo4j-archetype-quickstart@
-@-DarchetypeVersion=0.1-SNAPSHOT@.
+@-DarchetypeVersion=0.1 (or 0.2-SNAPSHOT)@.
