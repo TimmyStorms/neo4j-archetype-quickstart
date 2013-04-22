@@ -1,4 +1,4 @@
-package org.neo4j.examples;
+package ${groupId};
 
 import java.io.File;
 import java.io.IOException;
