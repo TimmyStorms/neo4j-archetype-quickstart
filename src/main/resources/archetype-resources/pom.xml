@@ -7,9 +7,6 @@
 	<version>${version}</version>
 	<packaging>jar</packaging>
 
-	<name>A custom project</name>
-	<url>http://www.myorganization.org</url>
-
 	<properties>
 		<neo4j.version>1.9.RC1</neo4j.version>
 		<junit.version>4.11</junit.version>
